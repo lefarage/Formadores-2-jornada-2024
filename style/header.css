@@ -7,6 +7,13 @@
     width: 24px;
     height: 24px;
    background-image: url("/Img/Menu.svg");
+   display: inline-block;
    
-   
+}
+.container{
+    display: flex;
+    align-items: center;
+}
+.container__imagem{
+    padding: 1em;
 }
