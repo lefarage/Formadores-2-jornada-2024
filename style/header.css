@@ -8,6 +8,7 @@
     height: 24px;
    background-image: url("/Img/Menu.svg");
    display: inline-block;
+   background-repeat: no-repeat;
    
 }
 .container{
