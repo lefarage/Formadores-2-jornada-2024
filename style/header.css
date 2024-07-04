@@ -22,6 +22,6 @@
 .lista-menu{
     display:none;
 }
-.container__botao:checke~.lista-menu{
+.container__botao:checked~.lista-menu{
     display:block;
 }
